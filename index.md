@@ -1,35 +1,19 @@
 ---
 layout: coursepage
-title: Math 20-1 
+title: Experimental Probability and Simulation
 description: Mr. Merrick 
 show_downloads: FALSE
 
 ---
-<!--- ### MATH 20-1 SECTION  ### --->
-Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remeber to frequently check this page for updates. 
 
-### Homework 
-<!--- 
-### September 1 - September 
-* Watch List:  
-    * Review any outstanding material. 
----> 
+Welcome to experimental probability and simulation. In this course we will conduct experiments and draw insights from them. This course will large be 'food based' meaning wherever possible we will be testing claims involving food. Some examples are:
 
-A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
+* Can you taste the rainbow? Testing whether or not an individual can identify the color of a skittle correctly. 
+* Are double stuffed oreos truely double stuffed? Testing claims that companies make about there products. 
 
 
-### In Class Materials 
+### In Class Materials
 
-#### Mini Math 
-
-#### Deep Thoughts 
-
-<!--- ### MATH 30-1 SECTION  ### ---> 
-<!---
-### Homework 
-
-### In Class Materials 
----> 
 
 
 
