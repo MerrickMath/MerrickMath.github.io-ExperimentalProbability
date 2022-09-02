@@ -13,8 +13,8 @@ Welcome to experimental probability and simulation. In this course we will condu
 
 
 ### In Class Materials
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-ExperimentalProbability/Activities/SkittlesIntro.pdf"> Taste The Rainbow. </a>
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-ExperimentalProbability/Activities/SkittleIntroSoln.pdf"> Taste The Rainbow. </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-ExperimentalProbability/Activities/SkittlesIntro.pdf"> Taste The Rainbow </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-ExperimentalProbability/Activities/SkittleIntroSoln.pdf"> Taste The Rainbow Solutions </a>
 
 
 
