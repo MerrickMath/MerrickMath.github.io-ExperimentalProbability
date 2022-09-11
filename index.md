@@ -1,6 +1,6 @@
 ---
 layout: coursepage
-title: Experimental Probability and Simulation
+title: Foodified Experimental Probability and Simulation
 description: Mr. Merrick 
 show_downloads: FALSE
 
